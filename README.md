@@ -1,1 +1,2 @@
-## Elixir problems from Exercism elixir path
+## Problems from Exercism elixir path
+and their solutions
